@@ -31,6 +31,18 @@ Elabore um relatório detalhando a implementação dessas estruturas, funcioname
 
 <h2>Estruturas Utilizadas</h2>
 
+<h3>Vector</h3>
+
+<h3>Map</h3>
+
+<h3>Unordered Map</h3>
+
+<h3>Árvore Binária</h3>
+
+<h3>Árvore AVL</h3>
+
+<h3>Árvore Rubro-Negra</h3>
+
 <h2>Resolução</h2>
 
 <h2>Exemplo de Execução</h2>
