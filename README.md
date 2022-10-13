@@ -102,11 +102,11 @@ Map é um contêiner que armazena elementos em pares chave-valor. Ele é semelha
 
 Aqui temos os benefícios principais do uso de map:
 
-* Map armazena apenas chaves exclusivas. Essas chaves são armazenadas de maneira ordenada;
+1. Map armazena apenas chaves exclusivas. Essas chaves são armazenadas de maneira ordenada;
 
-* Como as chaves já estão ordenadas, procurar por um elemento é muito rápido;
+2. Como as chaves já estão ordenadas, procurar por um elemento é muito rápido;
 
-* Existe apenas um valor para cada chave.
+3. Existe apenas um valor para cada chave.
 
 Para mais informações acesse:  <a href="https://www.freecodecamp.org/portuguese/news/map-em-c-mais-mais-explicado-com-exemplos/#:~:text=map%20%C3%A9%20um%20cont%C3%AAiner%20que,map%20armazena%20apenas%20chaves%20exclusivas.">Map - freeCodeCamp</a> ou <a href="https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/">Map - Geek for Geeks</a>
 
