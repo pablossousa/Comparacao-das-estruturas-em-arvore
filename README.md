@@ -97,12 +97,12 @@ Para mais informações acesse:  <a href="https://data-flair.training/blogs/cpp-
 * <h3>Map</h3>
 
 <p align="justify">
-Map é um contêiner que armazena elementos em pares chave-valor. Ele é semelhante às collections em Java, aos arrays associativos em PHP, ou aos objetos em JavaScript.
+map é um contêiner que armazena elementos em pares chave-valor. Ele é semelhante às collections em Java, aos arrays associativos em PHP, ou aos objetos em JavaScript.
 </p>
 
 Aqui temos os benefícios principais do uso de map:
 
-1. Map armazena apenas chaves exclusivas. Essas chaves são armazenadas de maneira ordenada;
+1. map armazena apenas chaves exclusivas. Essas chaves são armazenadas de maneira ordenada;
 
 2. Como as chaves já estão ordenadas, procurar por um elemento é muito rápido;
 
@@ -111,6 +111,13 @@ Aqui temos os benefícios principais do uso de map:
 Para mais informações acesse:  <a href="https://www.freecodecamp.org/portuguese/news/map-em-c-mais-mais-explicado-com-exemplos/#:~:text=map%20%C3%A9%20um%20cont%C3%AAiner%20que,map%20armazena%20apenas%20chaves%20exclusivas.">Map - freeCodeCamp</a> ou <a href="https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/">Map - Geek for Geeks</a>
 
 * <h3>Unordered Map</h3>
+
+<p align="justify">
+unordered_map é um contêiner associado que armazena elementos formados pela combinação de valor-chave e um valor mapeado. O valor da chave é usado para identificar exclusivamente o elemento e o valor mapeado é o conteúdo associado à chave. Tanto a chave quanto o valor podem ser de qualquer tipo predefinido ou definido pelo usuário.
+</p>
+
+Para mais informações acesse: <a href="https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/">unordered_map - Geek for Geeks</a>
+
 
 <h2>Resolução</h2>
 
