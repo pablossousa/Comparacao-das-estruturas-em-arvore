@@ -153,7 +153,7 @@ Aprofundando na lógica de programação da função "calcular500entradas()", a 
 <p align="center"> Fig 7. Criação das estruturas</p>
 
 <p align="justify">
-Em seguida, o programa inserirá em todas as estrutruras 500 números que não se repetem, pois é o tamanho do arquivo que o usuário escolheu. Concomitantemente, o programa contará o tempo gastou para inserir tal quantidade nas estruturas. Para a inserção dos valores nas árvores, foram utilizadas funções já implementadas e que são funcionais disponíveis nas referências deste relatório. Já vector, map e unordered map foram utilizadas funções nativas do C++.
+Em seguida, o programa inserirá em todas as estrutruras 500 números que não se repetem, pois é o tamanho do arquivo que o usuário escolheu. Concomitantemente, o programa contará o tempo gasto para inserir tal quantidade nas estruturas. Para a inserção dos valores nas árvores, foram utilizadas funções já implementadas e que são funcionais disponíveis nas referências deste relatório. Já vector, map e unordered map foram utilizadas funções nativas do C++.
 </p>
 
 <p align="justify">
@@ -162,6 +162,10 @@ Em seguida, para comprovar que foram inseridas as devidas quantidades nas estrut
 
 <p align="justify">
 Logo após, o programa calcula o tempo de busca. Ele faz isso abrindo um arquivo de 10000 valores (será explicado futuramente) verificando quais destes números batem com os valores do arquivo de 500 entradas.
+</p>
+
+<p align="justify">
+E por último, calcula os tempos de remoção das estruturas. Da mesma forma da programação da busca, o programa abre um arquivo de 10000 valores. Caso um determinado valor seja igual tanto no arquivo quanto na estrutura, o programa a remove da estrutura. 
 </p>
 
 <h2>Exemplo de Execução</h2>
