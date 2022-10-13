@@ -29,7 +29,7 @@ Elabore um relatório detalhando a implementação dessas estruturas, funcioname
 <h2>Estruturas Utilizadas</h2>
 
 * <h3>Árvore Binária</h3>
-
+    
 * <h3>Árvore AVL</h3>
 
 * <h3>Árvore Rubro-Negra</h3>
@@ -45,6 +45,19 @@ Elabore um relatório detalhando a implementação dessas estruturas, funcioname
 <h2>Exemplo de Execução</h2>
 
 <h2>Resultados Obtidos</h2>
+
+<div align="center">
+
+|                    | Inserção | Busca | Remoção |
+|--------------------|----------|-------|---------|
+| Árvore Binária     |          |       |         |
+| Árvore Avl         |          |       |         |
+| Árvore Rubro-Negra |          |       |         |
+| Vector             |          |       |         |
+| Map                |          |       |         |
+| Unordered Map      |          |       |         |
+    
+</div>
 
 <h2>Compilação e Execução</h2>
 
