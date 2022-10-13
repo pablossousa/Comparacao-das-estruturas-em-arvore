@@ -36,8 +36,8 @@ Elabore um relatório detalhando a implementação dessas estruturas, funcioname
 
 <p align="center">
 <img src="imagens/binary.png"/> 
-  <caption>Fig 1. Exemplo de estrutura</caption>
 </p>
+<p align="center"> Fig 1. Exemplo de estrutura</p>
 
 Para mais informações acesse:  <a href="https://github.com/mpiress/basic_tree">Árvore Binária</a>
     
@@ -92,7 +92,7 @@ Podemos facilmente inserir, excluir, percorrer e modificar elementos, bem como g
   <caption>Fig 4. Representação FOF Vector</caption>
 </p>
 
-Para mais informações acesse:  <a href="https://data-flair.training/blogs/cpp-vector/">Vector Data Flair</a> ou <a href="https://www.geeksforgeeks.org/vector-in-cpp-stl/">Vector Geek for Geeks</a>
+Para mais informações acesse:  <a href="https://data-flair.training/blogs/cpp-vector/">Vector - Data Flair</a> ou <a href="https://www.geeksforgeeks.org/vector-in-cpp-stl/">Vector - Geek for Geeks</a>
 
 * <h3>Map</h3>
 
