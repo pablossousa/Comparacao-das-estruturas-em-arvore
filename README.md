@@ -46,6 +46,14 @@ Elabore um relatório detalhando a implementação dessas estruturas, funcioname
 
 <h2>Resultados Obtidos</h2>
 
+<h2>Referências</h2>
+
+https://github.com/mpiress/basic_tree
+
+https://github.com/mpiress/avl_tree
+
+https://github.com/mpiress/RedBlack
+
 <div align="center">
 
 |                    | Inserção | Busca | Remoção |
