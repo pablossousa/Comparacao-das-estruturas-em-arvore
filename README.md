@@ -173,7 +173,7 @@ Voltando ao menu, ainda há uma opção não explicada: a opção de gerar novos
 </p>
 
 <p align="center">
-<img src="imagens/opcao100.png"/> 
+<img src="imagens/opcao100.PNG"/> 
 </p>
 <p align="center"> Fig 8. Opção 100</p>
 
@@ -183,8 +183,13 @@ Voltando ao menu, ainda há uma opção não explicada: a opção de gerar novos
 <p align="center"> Fig 9. Função para gerar valores aleatórios</p>
 
 <p align="justify">
-A geração dos arquivos de 500, 5000, 50000, 500000 seguem a mesma lógica, só mudando o tamanho. Como exemplo, a criação do arquivo de 500 entradas é feito dessa forma:
+A geração dos arquivos de 500, 5000, 50000, 500000 seguem a mesma lógica, só mudando o tamanho. Como exemplo, a criação do arquivo de 500 entradas é mostrada abaixo, onde com a ajuda de um unordered map e a função "rand()" o programa não permite a inserção de valores repetidos no arquivo.
 </p>
+
+<p align="center">
+<img src="imagens/entrada500.png"/> 
+</p>
+<p align="center"> Fig 10. Função para gerar arquivo de 500 entradas</p>
 
 
 
