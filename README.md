@@ -59,7 +59,7 @@ Para mais informações acesse:  <a href="https://github.com/mpiress/basic_tree"
 <img src="imagens/avl.png"/> 
 </p>
 
-<p align="center"> Fig 2. Exemplo de árvore AVL. </p>
+<p align="center"> Fig 2. Exemplo de árvore AVL</p>
 
 Para mais informações acesse:  <a href="https://github.com/mpiress/avl_tree">Árvore AVL</a>
 
@@ -72,7 +72,7 @@ Para mais informações acesse:  <a href="https://github.com/mpiress/avl_tree">�
 
 <p align="center">
   <img src="imagens/rb.png" /><br/>
-  <caption>Fig 3. Exemplo de estrutura de uma árvore binária do tipo Red Black.</caption>
+  <caption>Fig 3. Exemplo de estrutura de uma árvore binária do tipo Red Black</caption>
 </p>
 
 Para mais informações acesse:  <a href="https://github.com/mpiress/RedBlack">Árvore Rubro-Negra</a>
@@ -143,19 +143,34 @@ Caso o usuário escolha uma das opções entre 1 e 4, o programa entrará numa c
 </p>
 <p align="center"> Fig 6. Opção 1</p>
 
-Aprofundando na lógica de programação da função "calcular500entradas()", a aplicação fará todos os cálculos e procedimentos referentes a entrada de 500 palavras no arquivo também chamado "calcular500entradas.cpp". Primeiramente, a função criará os esquemas para a construção de todas as estruturas, isto é, Árvore Binária, Árvore AVL, Árvore Rubro-Negra, Vector, Map e Unordered Map.
+<p align="justify">
+Aprofundando na lógica de programação da função "calcular500entradas()", a aplicação fará todos os cálculos e procedimentos referentes a entrada de 500 valores no arquivo também chamado "calcular500entradas.cpp". Primeiramente, a função criará os esquemas para a construção de todas as estruturas, isto é, Árvore Binária, Árvore AVL, Árvore Rubro-Negra, Vector, Map e Unordered Map.
+</p>
 
 <p align="center">
 <img src="imagens/criacao.png"/> 
 </p>
-<p align="center"> Fig 7. Opção 1</p>
+<p align="center"> Fig 7. Criação das estruturas</p>
 
+<p align="justify">
+Em seguida, o programa inserirá em todas as estrutruras 500 números que não se repetem, pois é o tamanho do arquivo que o usuário escolheu. Concomitantemente, o programa contará o tempo gastou para inserir tal quantidade nas estruturas. Para a inserção dos valores nas árvores, foram utilizadas funções já implementadas e que são funcionais disponíveis nas referências deste relatório. Já vector, map e unordered map foram utilizadas funções nativas do C++.
+</p>
+
+<p align="justify">
+Em seguida, para comprovar que foram inseridas as devidas quantidades nas estruturas, o sistema mostra a quantidade total de valores presentes nas mesmas.
+</p>
+
+<p align="justify">
+Logo após, o programa calcula o tempo de busca. Ele faz isso abrindo um arquivo de 10000 valores (será explicado futuramente) verificando quais destes números batem com os valores do arquivo de 500 entradas.
+</p>
 
 <h2>Exemplo de Execução</h2>
 
 <h2>Resultados Obtidos</h2>
 
-<h3>500 palavras</h3>
+explicar micro e mili segundos.
+
+<h3>500 valores</h3>
 
 <div align="center">
 
@@ -171,7 +186,7 @@ Aprofundando na lógica de programação da função "calcular500entradas()", a 
 </div>
 
 
-<h3>5000 palavras</h3>
+<h3>5000 valores</h3>
 
 <div align="center">
 
@@ -187,7 +202,7 @@ Aprofundando na lógica de programação da função "calcular500entradas()", a 
 </div>
 
 
-<h3>50000 palavras</h3>
+<h3>50000 valores</h3>
 
 <div align="center">
 
@@ -202,7 +217,7 @@ Aprofundando na lógica de programação da função "calcular500entradas()", a 
     
 </div>
 
-<h3>500000 palavras</h3>
+<h3>500000 valores</h3>
 
 <div align="center">
 
