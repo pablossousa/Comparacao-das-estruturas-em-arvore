@@ -134,6 +134,23 @@ No menu é possível escolher qual o arquivo o usuário gostaria de utilizar nes
 </p>
 <p align="center"> Fig 5. Menu</p>
 
+<p align="justify">
+Caso o usuário escolha uma das opções entre 1 e 4, o programa entrará numa condição como no "if" parecida como o exemplo abaixo.
+</p>
+
+<p align="center">
+<img src="imagens/opcao1.png"/> 
+</p>
+<p align="center"> Fig 6. Opção 1</p>
+
+Aprofundando na lógica de programação da função "calcular500entradas()", a aplicação fará todos os cálculos e procedimentos referentes a entrada de 500 palavras no arquivo também chamado "calcular500entradas.cpp". Primeiramente, a função criará os esquemas para a construção de todas as estruturas, isto é, Árvore Binária, Árvore AVL, Árvore Rubro-Negra, Vector, Map e Unordered Map.
+
+<p align="center">
+<img src="imagens/criacao.png"/> 
+</p>
+<p align="center"> Fig 7. Opção 1</p>
+
+
 <h2>Exemplo de Execução</h2>
 
 <h2>Resultados Obtidos</h2>
