@@ -129,6 +129,11 @@ Para a resolução do problema, a solução foi dividir o código em alguns arqu
 No menu é possível escolher qual o arquivo o usuário gostaria de utilizar nesse momento da execução.	
 </p>
 
+<p align="center">
+<img src="imagens/menu.png"/> 
+</p>
+<p align="center"> Fig 5. Menu</p>
+
 <h2>Exemplo de Execução</h2>
 
 <h2>Resultados Obtidos</h2>
