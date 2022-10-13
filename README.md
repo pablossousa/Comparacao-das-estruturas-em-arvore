@@ -189,11 +189,11 @@ Para mais informações acesse: <a href="https://www.geeksforgeeks.org/unordered
 
 <h2>Referências</h2>
 
-https://github.com/mpiress/basic_tree
+* <a href="https://github.com/mpiress/basic_tree">Árvore Binária</a>
 
-https://github.com/mpiress/avl_tree
+* <a href="https://github.com/mpiress/avl_tree">Árvore AVL</a>
 
-https://github.com/mpiress/RedBlack
+* <a href="https://github.com/mpiress/RedBlack">Árvore Rubro-Negra</a>
 
 <h2>Compilação e Execução</h2>
 
