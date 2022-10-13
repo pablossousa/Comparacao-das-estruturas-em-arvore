@@ -64,6 +64,18 @@ Para mais informações acesse:  <a href="https://github.com/mpiress/avl_tree">�
 
 * <h3>Árvore Rubro-Negra</h3>
 
+<p align="justify">
+	Em uma árvore binária do tipo Red Black (RB), os nós se mantêm aprocimadamente balanciados por meio de uma estratégia de cores. Diferente da AVL, em uma RB os nós são avaliados considerando um processo de parentesco, em que vizinhos são considerados e esses devem obedecer certos critérios de cor para indicar que a estrutura se encontra balanceada. Isso permite que processos de inserção, remoção e pesquisa sejam realizados sob custo computacional de O(logn). Um exemplo da estrutura de uma RB pode ser observada na Fig 1.
+</p>
+
+
+<p align="center">
+  <img src="imagens/rb.png" /><br/>
+  <caption>Fig 1. Exemplo de estrutura de uma árvore binária do tipo Red Black.</caption>
+</p>
+
+Para mais informações acesse:  <a href="https://github.com/mpiress/RedBlack">Árvore Rubro-Negra</a>
+
 * <h3>Vector</h3>
 
 * <h3>Map</h3>
