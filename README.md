@@ -191,7 +191,9 @@ A geração dos arquivos de 500, 5000, 50000, 500000 seguem a mesma lógica, só
 </p>
 <p align="center"> Fig 10. Função para gerar arquivo de 500 entradas</p>
 
-
+<p align="justify">
+Já o arquivo de 10000 valores é gerado pegando uma determinada quantidade de valores dos arquivos de 500, 5000, 50000, 500000. A função "gerar10000()"
+ pega 250 valores do arquivo de 500, 1250 do arquivo de 5000, 2500 do arquivo de 50000, 5000 do arquivo de 500000 e 1000 valores aleatório de 1 a 100.</p>
 
 <h2>Exemplo de Execução</h2>
 
