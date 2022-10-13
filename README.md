@@ -42,6 +42,26 @@ Para mais informações acesse:  <a href="https://github.com/mpiress/basic_tree"
     
 * <h3>Árvore AVL</h3>
 
+<p align="justify">
+	Em uma árvore binária do tipo AVL, os nós se mantêm aprocimadamente balanciados. Isso permite que processos de inserção, remoção e pesquisa sejam realizados sob custo computacional de O(logn).
+</p>
+
+<p align="justify">
+	Para a realização dos balanceamentos, a AVL modifica o método de inserção da árvore binária, introduzindo nela um procedimento de avaliação de peso e quatro modelos de rotação.
+</p>
+
+<p align="justify">
+	O fator de peso é utilizado para identificar quando a árvore se apresenta desbalanceada, para com isso identificar que tipo de rotação é preciso empregar na estrutura para que essa volta e se manter aproximadamente balanceada. A abordagem do fator de peso pode ser observada através da Fig 1. 
+</p>
+
+<p align="center">
+<img src="imagens/avl.png"/> 
+</p>
+
+<p align="center"> Fig 1. Exemplo de árvore AVL. </p>
+
+Para mais informações acesse:  <a href="https://github.com/mpiress/avl_tree">Árvore AVL</a>
+
 * <h3>Árvore Rubro-Negra</h3>
 
 * <h3>Vector</h3>
