@@ -135,7 +135,7 @@ No menu é possível escolher qual o arquivo o usuário gostaria de utilizar nes
 <p align="center"> Fig 5. Menu</p>
 
 <p align="justify">
-Caso o usuário escolha uma das opções entre 1 e 4, o programa entrará numa condição como no "if" parecida como o exemplo abaixo.
+Caso o usuário escolha uma das opções entre 1 e 4, o programa entrará numa condição "if" parecido com o exemplo abaixo.
 </p>
 
 <p align="center">
@@ -166,6 +166,10 @@ Logo após, o programa calcula o tempo de busca. Ele faz isso abrindo um arquivo
 
 <p align="justify">
 E por último, calcula os tempos de remoção das estruturas. Da mesma forma da programação da busca, o programa abre um arquivo de 10000 valores. Caso um determinado valor seja igual tanto no arquivo quanto na estrutura, o programa a remove da estrutura. 
+</p>
+
+<p align="justify">
+Voltando ao menu, ainda há uma opção não explicada: a opção de gerar novos valores. O objetivo dessa opção é gerar um arquivo de 
 </p>
 
 <h2>Exemplo de Execução</h2>
