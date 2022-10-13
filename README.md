@@ -58,7 +58,7 @@ Para mais informações acesse:  <a href="https://github.com/mpiress/basic_tree"
 <img src="imagens/avl.png"/> 
 </p>
 
-<p align="center"> Fig 1. Exemplo de árvore AVL. </p>
+<p align="center"> Fig 2. Exemplo de árvore AVL. </p>
 
 Para mais informações acesse:  <a href="https://github.com/mpiress/avl_tree">Árvore AVL</a>
 
@@ -71,12 +71,27 @@ Para mais informações acesse:  <a href="https://github.com/mpiress/avl_tree">�
 
 <p align="center">
   <img src="imagens/rb.png" /><br/>
-  <caption>Fig 1. Exemplo de estrutura de uma árvore binária do tipo Red Black.</caption>
+  <caption>Fig 3. Exemplo de estrutura de uma árvore binária do tipo Red Black.</caption>
 </p>
 
 Para mais informações acesse:  <a href="https://github.com/mpiress/RedBlack">Árvore Rubro-Negra</a>
 
 * <h3>Vector</h3>
+
+<p align="justify">
+Os vetores são basicamente uma estrutura de dados que não apenas atua como um array dinâmico, mas também garante o acesso rápido e aleatório dos elementos pertencentes a esse vetor.
+</p>
+
+<p align="justify">
+Podemos facilmente inserir, excluir, percorrer e modificar elementos, bem como gerenciar a memória do computador necessária para armazená-los com a ajuda do contêiner de sequência C++.
+</p>
+
+<p align="center">
+  <img src="imagens/vector.png" /><br/>
+  <caption>Fig 4. Representação FOF Vector</caption>
+</p>
+
+Para mais informações acesse:  <a href="https://data-flair.training/blogs/cpp-vector/">Vector Data Flair</a> ou <a href="https://www.geeksforgeeks.org/vector-in-cpp-stl/">Vector Geek for Geeks</a>
 
 * <h3>Map</h3>
 
