@@ -88,13 +88,7 @@ Para mais informações acesse:  <a href="https://github.com/mpiress/RedBlack">�
 
 <h2>Resultados Obtidos</h2>
 
-<h2>Referências</h2>
-
-https://github.com/mpiress/basic_tree
-
-https://github.com/mpiress/avl_tree
-
-https://github.com/mpiress/RedBlack
+<h3>500 palavras</h3>
 
 <div align="center">
 
@@ -108,6 +102,61 @@ https://github.com/mpiress/RedBlack
 | Unordered Map      |          |       |         |
     
 </div>
+
+
+<h3>5000 palavras</h3>
+
+<div align="center">
+
+|                    | Inserção | Busca | Remoção |
+|--------------------|----------|-------|---------|
+| Árvore Binária     |          |       |         |
+| Árvore Avl         |          |       |         |
+| Árvore Rubro-Negra |          |       |         |
+| Vector             |          |       |         |
+| Map                |          |       |         |
+| Unordered Map      |          |       |         |
+    
+</div>
+
+
+<h3>50000 palavras</h3>
+
+<div align="center">
+
+|                    | Inserção | Busca | Remoção |
+|--------------------|----------|-------|---------|
+| Árvore Binária     |          |       |         |
+| Árvore Avl         |          |       |         |
+| Árvore Rubro-Negra |          |       |         |
+| Vector             |          |       |         |
+| Map                |          |       |         |
+| Unordered Map      |          |       |         |
+    
+</div>
+
+<h3>500000 palavras</h3>
+
+<div align="center">
+
+|                    | Inserção | Busca | Remoção |
+|--------------------|----------|-------|---------|
+| Árvore Binária     |          |       |         |
+| Árvore Avl         |          |       |         |
+| Árvore Rubro-Negra |          |       |         |
+| Vector             |          |       |         |
+| Map                |          |       |         |
+| Unordered Map      |          |       |         |
+    
+</div>
+
+<h2>Referências</h2>
+
+https://github.com/mpiress/basic_tree
+
+https://github.com/mpiress/avl_tree
+
+https://github.com/mpiress/RedBlack
 
 <h2>Compilação e Execução</h2>
 
