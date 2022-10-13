@@ -36,6 +36,7 @@ Elabore um relatório detalhando a implementação dessas estruturas, funcioname
 
 <p align="center">
 <img src="imagens/binary.png"/> 
+  <caption>Fig 1. Exemplo de estrutura</caption>
 </p>
 
 Para mais informações acesse:  <a href="https://github.com/mpiress/basic_tree">Árvore Binária</a>
