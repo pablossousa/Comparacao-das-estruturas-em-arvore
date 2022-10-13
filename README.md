@@ -199,7 +199,9 @@ Já o arquivo de 10000 valores é gerado pegando uma determinada quantidade de v
 
 <h2>Resultados Obtidos</h2>
 
-explicar micro e mili segundos.
+<p align="justify">
+Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em geral os resultados foram obtidos em milisegundos (ms), porém durante a inserção nas estruturas foi mostrado na tela o valor de 0 ms. Isso se deve porque a inserção é extremamente rápida, visto isso foi utilizada outra unidade de medida: microsegundo (µs).
+</p>
 
 <h3>500 valores</h3>
 
