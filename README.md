@@ -125,6 +125,10 @@ Para mais informações acesse: <a href="https://www.geeksforgeeks.org/unordered
 Para a resolução do problema, a solução foi dividir o código em alguns arquivos para um melhor entendimento da programação. Primeiramente, foi criado um menu para que o usuário possa escolher a opção desejada de execução assim melhorando o desempenho da aplicação, uma vez que não é necessário executar todos os métodos custosos de uma só vez.
 </p>
 
+<p align="justify">
+No menu é possível escolher qual o arquivo o usuário gostaria de utilizar nesse momento da execução.	
+</p>
+
 <h2>Exemplo de Execução</h2>
 
 <h2>Resultados Obtidos</h2>
