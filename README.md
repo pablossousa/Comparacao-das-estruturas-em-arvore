@@ -169,7 +169,7 @@ E por último, calcula os tempos de remoção das estruturas. Da mesma forma da 
 </p>
 
 <p align="justify">
-Voltando ao menu, ainda há uma opção não explicada: a opção de gerar novos valores. O objetivo dessa opção é gerar arquivos de 500, 5000, 50000, 500000 e 10000 números aleatórios entre 0 e 100 com casas decimais para garantir que não se repetem.
+Voltando ao menu, ainda há uma opção não explicada: a opção de gerar novos valores. O objetivo dessa opção é gerar arquivos de 500, 5000, 50000, 500000 e 10000 números aleatórios entre 0 e 100 com casas decimais para garantir que não se repetem. 
 </p>
 
 <p align="center">
@@ -181,6 +181,12 @@ Voltando ao menu, ainda há uma opção não explicada: a opção de gerar novos
 <img src="imagens/novosValores.png"/> 
 </p>
 <p align="center"> Fig 9. Função para gerar valores aleatórios</p>
+
+<p align="justify">
+A geração dos arquivos de 500, 5000, 50000, 500000 seguem a mesma lógica, só mudando o tamanho. Como exemplo, a criação do arquivo de 500 entradas é feito dessa forma:
+</p>
+
+
 
 <h2>Exemplo de Execução</h2>
 
