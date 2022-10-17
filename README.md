@@ -205,7 +205,6 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 
 <h3>500 valores</h3>
 
-<h2>Conclus</h2>
 
 <div align="center">
 
@@ -266,6 +265,8 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 | Unordered Map      |          |       |         |
     
 </div>
+
+<h2>Conclusão</h2>
 
 <h2>Referências</h2>
 
