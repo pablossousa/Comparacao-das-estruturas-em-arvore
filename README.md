@@ -205,6 +205,8 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 
 <h3>500 valores</h3>
 
+<h2>Conclus</h2>
+
 <div align="center">
 
 |                    | Inserção | Busca | Remoção |
