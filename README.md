@@ -161,7 +161,7 @@ Em seguida, para comprovar que foram inseridas as devidas quantidades nas estrut
 </p>
 
 <p align="justify">
-Logo após, o programa calcula o tempo de busca. Ele faz isso abrindo um arquivo de 10000 valores (será explicado futuramente) verificando quais destes números batem com os valores do arquivo de 500 entradas.
+Logo após, o programa calcula o tempo de busca. Ele faz isso utilizando uma "binary search", que dependendo do arquivo chega a ser minutos mais rápida do que uma busca convencional. Ele abre um arquivo de 10000 valores (será explicado futuramente) verificando quais destes números batem com os valores do arquivo de 500 entradas.
 </p>
 
 <p align="justify">
