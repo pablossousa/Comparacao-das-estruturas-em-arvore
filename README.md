@@ -197,6 +197,10 @@ Já o arquivo de 10000 valores é gerado pegando uma determinada quantidade de v
 
 <h2>Exemplo de Execução</h2>
 
+<p align="justify">
+
+</p>
+
 <p align="center">
 <img src="imagens/opcoes.png"/> 
 </p>
