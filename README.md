@@ -197,6 +197,16 @@ Já o arquivo de 10000 valores é gerado pegando uma determinada quantidade de v
 
 <h2>Exemplo de Execução</h2>
 
+<p align="center">
+<img src="imagens/opcoes.png"/> 
+</p>
+<p align="center"> Fig 11. Menu do programa</p>
+
+<p align="center">
+<img src="imagens/execucao.png"/> 
+</p>
+<p align="center"> Fig 12. Execução ao escolher 500 entradas</p>
+
 <h2>Resultados Obtidos</h2>
 
 <p align="justify">
