@@ -198,7 +198,7 @@ Já o arquivo de 10000 valores é gerado pegando uma determinada quantidade de v
 <h2>Exemplo de Execução</h2>
 
 <p align="justify">
-
+Ao executar o programa, o usuário terá a opção de escolher qual entrada ele gostaria de testar as inserções, buscas e remoções. Ao escolher qual entrada ele deseja, o sistema mostrará o volume de entradas inseridas, o tempo de inserção, o tempo de busca, o tempo de remoção e o tamanho da estrutura ap
 </p>
 
 <p align="center">
