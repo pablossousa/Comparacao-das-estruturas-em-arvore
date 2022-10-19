@@ -254,6 +254,11 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
     
 </div>
 
+<p align="center">
+<img src="imagens/5000.png"/> 
+</p>
+<p align="center"> Fig 14. Gráfico com 5000 entradas</p>
+
 
 <h3>50000 valores</h3>
 
@@ -270,6 +275,11 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
     
 </div>
 
+<p align="center">
+<img src="imagens/50000.png"/> 
+</p>
+<p align="center"> Fig 15. Gráfico com 50000 entradas</p>
+
 <h3>500000 valores</h3>
 
 <div align="center">
@@ -284,6 +294,11 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 | Unordered Map      |    730 ms      |   4 ms    |    5 ms     |
     
 </div>
+
+<p align="center">
+<img src="imagens/500000.png"/> 
+</p>
+<p align="center"> Fig 16. Gráfico com 500000 entradas</p>
 
 <h2>Conclusão</h2>
 
