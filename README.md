@@ -233,6 +233,11 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
     
 </div>
 
+<p align="center">
+<img src="imagens/500.png"/> 
+</p>
+<p align="center"> Fig 13. Gráfico com 500 entradas</p>
+
 
 <h3>5000 valores</h3>
 
