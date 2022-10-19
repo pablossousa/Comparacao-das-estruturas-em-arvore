@@ -217,7 +217,17 @@ Ao executar o programa, o usuário terá a opção de escolher qual entrada ele 
 Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em geral os resultados foram obtidos em milisegundos (ms), porém durante a inserção nas estruturas foi mostrado na tela o valor de 0 ms. Isso se deve porque a inserção é extremamente rápida, visto isso foi utilizada outra unidade de medida: microsegundo (µs).
 </p>
 
-<h3>500 valores</h3>
+* <h3>500 valores</h3>
+
+<p align="justify">
+A princípio, podemos visualizar no gráfico que a inserção leva menos de 2 ms em todas as estruturas, onde entre as funções implementadas é a mais rápida nesse caso. A busca esteve entre 3 e 7 ms, estando bem próximas uma das outras. O mesmo acontece com a remoção, que esteve entre 3 e 6 ms. Isso se deve ao tamanho do arquivo, onde não há uma discrepância significativa para podermos visualizar uma diferença concreta.
+</p>
+
+* <h3>5000 valores</h3>
+
+* <h3>50000 valores</h3>
+
+* <h3>500000 valores</h3>
 
 
 <div align="center">
@@ -239,7 +249,7 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 <p align="center"> Fig 13. Gráfico com 500 entradas</p>
 
 
-<h3>5000 valores</h3>
+* <h3>5000 valores</h3>
 
 <div align="center">
 
@@ -260,7 +270,7 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 <p align="center"> Fig 14. Gráfico com 5000 entradas</p>
 
 
-<h3>50000 valores</h3>
+* <h3>50000 valores</h3>
 
 <div align="center">
 
@@ -280,7 +290,7 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 </p>
 <p align="center"> Fig 15. Gráfico com 50000 entradas</p>
 
-<h3>500000 valores</h3>
+* <h3>500000 valores</h3>
 
 <div align="center">
 
@@ -301,6 +311,8 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 <p align="center"> Fig 16. Gráfico com 500000 entradas</p>
 
 <h2>Conclusão</h2>
+
+* <h3> 500 valores </h3>
 
 <h2>Referências</h2>
 
