@@ -21,6 +21,8 @@ void novosValores() {
 int main() {
 
 	int opcao = -1;
+	
+	novosValores();
 
 	while(opcao != 0) {
 		
