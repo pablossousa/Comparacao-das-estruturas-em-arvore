@@ -265,12 +265,12 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 
 |                    | Inserção | Busca | Remoção |
 |--------------------|----------|-------|---------|
-| Árvore Binária     |    87 ms     |   2 ms    |   2 ms     |
-| Árvore Avl         |    75 ms      |  2 ms     |  2 ms       |
-| Árvore Rubro-Negra |    48 ms      |  1 ms     |  ***       |
-| Vector             |    17 ms      |  36 ms     | 6 ms        |
-| Map                |    83 ms      |  4 ms     |  4 ms       |
-| Unordered Map      |    60 ms      |  4 ms     |  4 ms       |
+| Árvore Binária     |    49 ms     |   1 ms    |   2 ms     |
+| Árvore Avl         |    79 ms      |  3 ms     |  3 ms       |
+| Árvore Rubro-Negra |    55 ms      |  0 ms     |  9 ms       |
+| Vector             |    23 ms      |  40 ms     | 1111 ms        |
+| Map                |    98 ms      |  3 ms     |  12 ms       |
+| Unordered Map      |    67 ms      |  2 ms     |  5 ms       |
     
 </div>
 
@@ -285,12 +285,12 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 
 |                    | Inserção | Busca | Remoção |
 |--------------------|----------|-------|---------|
-| Árvore Binária     |    894 ms      |   2 ms    |    2 ms     |
-| Árvore Avl         |    1297 ms      |  3 ms     |   3 ms      |
-| Árvore Rubro-Negra |    864 ms      |   1 ms    |    ***     |
-| Vector             |    175 ms      |   378 ms    |  21 ms       |
-| Map                |    1075 ms      |  5 ms     |   5 ms      |
-| Unordered Map      |    730 ms      |   4 ms    |    5 ms     |
+| Árvore Binária     |    411 ms      |   2 ms    |    8 ms     |
+| Árvore Avl         |    511 ms      |  2 ms     |   12 ms      |
+| Árvore Rubro-Negra |    1200 ms      |   0 ms    |    16 ms     |
+| Vector             |    148 ms      |   254 ms    |  9157 ms       |
+| Map                |    986 ms      |  14 ms     |   19 ms      |
+| Unordered Map      |    655 ms      |   2 ms    |    8 ms     |
     
 </div>
 
