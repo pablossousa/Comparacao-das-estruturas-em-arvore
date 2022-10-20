@@ -304,25 +304,25 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 * <h3>500 valores</h3>
 
 <p align="justify">
-A princípio, podemos visualizar no gráfico que a inserção leva menos de 2 ms em todas as estruturas, onde entre as funções implementadas é a mais rápida nesse caso. A busca esteve entre 3 e 7 ms, estando bem próximas uma das outras. O mesmo acontece com a remoção, que esteve entre 3 e 6 ms. Isso se deve ao tamanho do arquivo, onde não há uma discrepância significativa para podermos visualizar uma diferença concreta.
+A princípio, podemos visualizar no gráfico que a inserção leva menos de 230 µs em todas as estruturas, onde entre as funções implementadas é a mais rápida nesse caso. A busca esteve entre 1 e 4 ms, estando bem próximas uma das outras. O mesmo acontece com a remoção, que esteve mais próxima ainda, entre 1 e 2 ms. Isso se deve ao tamanho do arquivo, onde não há uma discrepância significativa para podermos visualizar uma diferença concreta.
 </p>
 
 * <h3>5000 valores</h3>
 
 <p align="justify">
-A partir do arquivo de 5000 valores podemos observar um fenômeno que vai começar a se repetir nos próximos arquivos: a diferença da inserção para a busca e remoção. A inserção começa a ser muito mais custosa devido a forma como é feita. Já a remoção e a busca continuam com tempos bem próximos, com exceção do Vector. 
+A partir do arquivo de 5000 valores podemos observar um fenômeno que vai começar a se repetir nos próximos arquivos: a diferença da remoção para a busca e inserção. A remoção de valores do Vector começa a ser muito mais custosa devido ao custo linear.
 </p>
 
 * <h3>50000 valores</h3>
 
 <p align="justify">
-No arquivo de 50000 as inserções estão muito mais lentas do que as demais funções. Busca e remoção continuam rápidas com exceção da busca do Vector que possui uma busca demorada mesmo tendo uma "binary search".
+No arquivo de 50000 as inserções estão mais lentas do que as demais funções. Busca e remoção continuam rápidas com exceção do Vector que possui uma busca e remoção demorada mesmo tendo uma "binary search".
 </p>
 
 * <h3>500000 valores</h3>
 
 <p align="justify">
-No arquivo de 500000 os resultados são parecidos com os resultados do arquivo de 50000 valores.
+No arquivo de 500000 os resultados são parecidos com os resultados do arquivo de 50000 valores, porém com tempos maiores.
 </p>
 
 <h2>Referências</h2>
