@@ -223,12 +223,12 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 
 |                    | Inserção | Busca | Remoção |
 |--------------------|----------|-------|---------|
-| Árvore Binária     |     764 µs     |   4 ms    |    4 ms     |
-| Árvore Avl         |     906 µs     |   4 ms    |    4 ms     |
-| Árvore Rubro-Negra |     568 µs     |   3 ms    |    ***     |
-| Vector             |     333 µs     |   7 ms    |    6 ms     |
-| Map                |     1090 µs     |  6 ms     |   3 ms      |
-| Unordered Map      |     1747 µs     |  5 ms     |   3 ms      |
+| Árvore Binária     |     200 µs     |   3 ms    |   1 ms     |
+| Árvore Avl         |     183 µs     |   1 ms    |   1 ms     |
+| Árvore Rubro-Negra |     153 µs     |   0 ms    |   1 ms     |
+| Vector             |     96 µs     |   4 ms    |    2 ms     |
+| Map                |     229 µs     |  3 ms     |   1 ms      |
+| Unordered Map      |     210 µs     |  1 ms     |   1 ms      |
     
 </div>
 
