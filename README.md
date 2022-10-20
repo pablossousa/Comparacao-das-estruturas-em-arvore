@@ -225,7 +225,7 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 |--------------------|----------|-------|---------|
 | Árvore Binária     |     200 µs     |   3 ms    |   1 ms     |
 | Árvore Avl         |     183 µs     |   1 ms    |   1 ms     |
-| Árvore Rubro-Negra |     153 µs     |   0 ms    |   1 ms     |
+| Árvore Rubro-Negra |     153 µs     |   1 ms    |   1 ms     |
 | Vector             |     96 µs     |   4 ms    |    2 ms     |
 | Map                |     229 µs     |  3 ms     |   1 ms      |
 | Unordered Map      |     210 µs     |  1 ms     |   1 ms      |
@@ -246,7 +246,7 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 |--------------------|----------|-------|---------|
 | Árvore Binária     |     1717 µs     |   1 ms    |    1 ms     |
 | Árvore Avl         |     4101 µs     |  1 ms     |   1 ms      |
-| Árvore Rubro-Negra |     1762 µs     |   0 ms    |    1 ms     |
+| Árvore Rubro-Negra |     1762 µs     |   1 ms    |    1 ms     |
 | Vector             |     952 µs     |   2 ms    |    105 ms     |
 | Map                |     2599 µs     |  2 ms     |   2 ms      |
 | Unordered Map      |     2109 µs     |   1 ms    |    6 ms     |
@@ -267,7 +267,7 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 |--------------------|----------|-------|---------|
 | Árvore Binária     |    49 ms     |   1 ms    |   2 ms     |
 | Árvore Avl         |    79 ms      |  3 ms     |  3 ms       |
-| Árvore Rubro-Negra |    55 ms      |  0 ms     |  9 ms       |
+| Árvore Rubro-Negra |    55 ms      |  1 ms     |  9 ms       |
 | Vector             |    23 ms      |  40 ms     | 1111 ms        |
 | Map                |    98 ms      |  3 ms     |  12 ms       |
 | Unordered Map      |    67 ms      |  2 ms     |  5 ms       |
@@ -287,7 +287,7 @@ Os resultados obtidos serão apresentados por meio de tabelas e gráficos. Em ge
 |--------------------|----------|-------|---------|
 | Árvore Binária     |    411 ms      |   2 ms    |    8 ms     |
 | Árvore Avl         |    511 ms      |  2 ms     |   12 ms      |
-| Árvore Rubro-Negra |    1200 ms      |   0 ms    |    16 ms     |
+| Árvore Rubro-Negra |    1200 ms      |   2 ms    |    16 ms     |
 | Vector             |    148 ms      |   254 ms    |  9157 ms       |
 | Map                |    986 ms      |  14 ms     |   19 ms      |
 | Unordered Map      |    655 ms      |   2 ms    |    8 ms     |
