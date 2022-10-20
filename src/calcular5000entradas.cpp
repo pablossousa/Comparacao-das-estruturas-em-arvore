@@ -19,7 +19,7 @@ void calcular5000entradas()
 
 	TreeBin *auxBin = CreateTreeBin();
 	TreeAVL *auxAVL = CreateTreeAVL();
-	//TreeRB *auxRB = CreateTreeRB();
+	TreeRB *auxRB = CreateTreeRB();
 
 	map<double, int> mapa;
 	unordered_map<double, int> mapaNO;
@@ -226,7 +226,7 @@ void calcular5000entradas()
 		while (getline(arquivo10000RBProcura, linha)) {
 			aux2 = stof(linha);
 			r.key = aux2;
-			//pesquisaRB(&raizRB, &auxRB, r);
+			pesquisaRB(&raizRB, &auxRB, r);
 		}
 	}
 
